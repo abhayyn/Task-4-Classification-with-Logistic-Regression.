@@ -1,4 +1,4 @@
-# 🧠 Task 4: Binary Classification using Logistic Regression
+# Task 4: Binary Classification using Logistic Regression
 
 - **Dataset Used**: [Breast Cancer Wisconsin Diagnostic Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - **Classes**: 
@@ -41,7 +41,7 @@
 - Matplotlib
 - Seaborn
 
-## 🖼️ Visuals
+## Visuals
 - ROC Curve
 - Sigmoid Function Curve
 
